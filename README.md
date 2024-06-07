@@ -1,5 +1,5 @@
 Objetivo:
-El objetivo del análisis es comprender el comportamiento de los clientes y definir una estrategia para abordar eficazmente este nuevo mercado. Se llevaron a cabo diversas etapas, como la limpieza de datos y la selección de variables relevantes. A continuación, se resumen los hallazgos clave:
+El objetivo del análisis es comprender el comportamiento de los clientes y definir una estrategia para abordar eficazmente este nuevo mercado. Se llevaron a cabo diversas etapas, como la limpieza de datos y la selección de variables relevantes.
 
 Introducción:
 El Banco Monopoly ha sido adquirido por el Banco Dormammu, que busca comprender a los clientes existentes y adaptar su estrategia en consecuencia. La base de datos proporcionada es una valiosa fuente de información para lograr este objetivo.
